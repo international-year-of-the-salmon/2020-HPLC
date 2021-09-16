@@ -1,0 +1,26 @@
+Protocols for High Performance Liquid Chromatography (HPLC) Data from the 2020 Gulf of Alaska International Year of the Salmon Expedition
+
+
+
+Water sample collection
+
+In conjunction with each CTD, water was collected using Niskin bottles at 3.5 m, 5 m, 25 m, 50 m,
+100 m, and 300 m depths. The 3.5 m sample was exclusively used for eDNA analysis (4000 ml).
+Nutrient samples (13 ml) were collected from all other depths. In addition to nutrients, water
+samples from 5 m depth were collected for phytoplankton pigments (HPLC; 2000 ml),
+phytoplankton taxonomy (200 ml), and Particulate Organic Matter (POM; 4000 ml). At some
+stations only 3.5 m and 5 m water samples collected due to sea conditions.
+
+Oceanographic water processing
+
+Samples were taken below deck for onboard processing, within 30 minutes of collection. For HPLC,
+water was stored in dark bottles until filtration when 2000 ml was filtered through a 0.7 mm
+Whatman GF/F 47 mm filter. Filters were immediately transferred to a cryo-vial, flash-frozen in
+liquid nitrogen, and transferred to dry ice for long-term storage. Samples for phytoplankton
+taxonomy comprised 200 ml of water preserved with 6 drops of Lugol’s solution. POM samples
+comprised replicate 2000 ml samples were filtered onto different pre-combusted Whatman
+GF/F 25 mm filters. After filtration, 2.5 ml of 1 M HCl was added to one of the filters and let to
+stand for 30 seconds before draining and rinsing the funnel with filtered seawater. Each filter was
+folded in half within a piece of tinfoil and stored in the -20 °C freezer. Nutrient samples (13 ml)
+were stored in the -20 °C freezer immediately post-collection. POM samples are designated to be
+analyzed for carbon / nitrogen content and stable carbon and nitrogen isotopes. 
